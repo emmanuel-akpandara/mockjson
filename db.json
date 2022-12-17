@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "6398b28acbd79f660002b585",
+        "name": "Emmanuel Akpandara",
+        "class": "Computer Science"
+    },
+    {
+        "_id": "6398b2aecbd79f660002b58a",
+        "name": "John Terry",
+        "class": "Football"
+    },
+    {
+        "_id": "6398b2c0cbd79f660002b58c",
+        "name": "Einstein Jr",
+        "class": "Science of Science"
+    },
+    {
+        "_id": "6398b2e7cbd79f660002b58e",
+        "name": "Chris Hemsworth",
+        "class": "Arts and Theatre"
+    }
+]
